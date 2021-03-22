@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2039d546bd541b1409f48a00198bd58a, type: 3}
+  m_Name: Map
+  m_EditorClassIdentifier: 
+  objectName: map
+  sprite: {fileID: -6794147732107935961, guid: 3fdf952c7d2794e4c97564abcccbd136, type: 3}
+  quantity: 1
+  stackable: 0
+  itemType: 2

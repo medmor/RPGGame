@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 2060ecaa091da644c97f099cc1d01d9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5382658046807761749
+    second: turkey_0
+  - first:
+      213: 5997627669782384628
+    second: turkey_1
+  - first:
+      213: 5293862805287349389
+    second: turkey_2
+  - first:
+      213: -98078740983374367
+    second: turkey_3
+  - first:
+      213: 8054974139972272733
+    second: turkey_4
+  - first:
+      213: -1016258897512488500
+    second: turkey_5
+  - first:
+      213: -2310333377721837077
+    second: turkey_6
+  - first:
+      213: -5637928711717010168
+    second: turkey_7
+  - first:
+      213: 4316271672201301939
+    second: turkey_8
+  - first:
+      213: -4087223223742930167
+    second: turkey_9
+  - first:
+      213: 5241158922701202512
+    second: turkey_10
+  - first:
+      213: -2738290447371832239
+    second: turkey_11
+  - first:
+      213: -3573575653302980158
+    second: turkey_12
+  - first:
+      213: -3599010611888853232
+    second: turkey_13
+  - first:
+      213: 1509091213232923408
+    second: turkey_14
+  - first:
+      213: 5166741424262104139
+    second: turkey_15
+  - first:
+      213: -262698970049272201
+    second: turkey_16
+  - first:
+      213: 9071273646457749907
+    second: turkey_17
+  - first:
+      213: 8619370592498291980
+    second: turkey_18
+  - first:
+      213: 6761700822827507898
+    second: turkey_19
+  - first:
+      213: 8570137499360388358
+    second: turkey_20
+  - first:
+      213: -5801299167296321141
+    second: turkey_21
+  - first:
+      213: 6313412358204881797
+    second: turkey_22
+  - first:
+      213: -1348333229767965953
+    second: turkey_23
+  - first:
+      213: -7359568421921151875
+    second: turkey_24
+  - first:
+      213: -7239022061318676811
+    second: turkey_25
+  - first:
+      213: 776870681540266963
+    second: turkey_26
+  - first:
+      213: -2628781777631182231
+    second: turkey_27
+  - first:
+      213: -6457353827650691126
+    second: turkey_28
+  - first:
+      213: 6390277113168768729
+    second: turkey_29
+  - first:
+      213: -1069368726108332941
+    second: turkey_30
+  - first:
+      213: 5893036754384059284
+    second: turkey_31
+  - first:
+      213: 4938071795956908227
+    second: turkey_32
+  - first:
+      213: -6900578361310269543
+    second: turkey_33
+  - first:
+      213: -6233841694707266213
+    second: turkey_34
+  - first:
+      213: 524388434022295444
+    second: turkey_35
+  - first:
+      213: -7851163937814467171
+    second: turkey_36
+  - first:
+      213: -6133816757674828448
+    second: turkey_37
+  - first:
+      213: -2214429772609776486
+    second: turkey_38
+  - first:
+      213: -3661621456177240204
+    second: turkey_39
+  - first:
+      213: -11548641791268540
+    second: turkey_40
+  - first:
+      213: 4101485041942860446
+    second: turkey_41
+  - first:
+      213: -5585891840882206377
+    second: turkey_42
+  - first:
+      213: -1636830114233313206
+    second: turkey_43
+  - first:
+      213: 8100992932216002869
+    second: turkey_44
+  - first:
+      213: 3887017321397309030
+    second: turkey_45
+  - first:
+      213: 1081932058748357145
+    second: turkey_46
+  - first:
+      213: 266201480971496643
+    second: turkey_47
+  - first:
+      213: -7501148389111928129
+    second: turkey_48
+  - first:
+      213: -6690516702128348820
+    second: turkey_49
+  - first:
+      213: 997595522829039535
+    second: turkey_50
+  - first:
+      213: 3498810406203106989
+    second: turkey_51
+  - first:
+      213: -722239244884423104
+    second: turkey_52
+  - first:
+      213: 1994622499372693755
+    second: turkey_53
+  - first:
+      213: 8957504685735486625
+    second: turkey_54
+  - first:
+      213: 6408902859301418387
+    second: turkey_55
+  - first:
+      213: 8786541639069030414
+    second: turkey_56
+  - first:
+      213: -5237546769014220826
+    second: turkey_57
+  - first:
+      213: -4446134345138094406
+    second: turkey_58
+  - first:
+      213: -2536746578148665929
+    second: turkey_59
+  - first:
+      213: -7029868886311312369
+    second: turkey_60
+  - first:
+      213: 6972005214005124017
+    second: turkey_61
+  - first:
+      213: -5188643260901505112
+    second: turkey_62
+  - first:
+      213: -471178102185559375
+    second: turkey_63
+  - first:
+      213: -7017848443418590504
+    second: turkey_64
+  - first:
+      213: 209785796975106244
+    second: turkey_65
+  - first:
+      213: 4341728953391078234
+    second: turkey_66
+  - first:
+      213: 3621024594278722360
+    second: turkey_67
+  - first:
+      213: -7571068025454903227
+    second: turkey_68
+  - first:
+      213: -3799700309387525775
+    second: turkey_69
+  - first:
+      213: 1083257292213774127
+    second: turkey_70
+  - first:
+      213: -1498636594827856124
+    second: turkey_71
+  - first:
+      213: 5216357386358390502
+    second: turkey_72
+  - first:
+      213: 1902080263229790701
+    second: turkey_73
+  - first:
+      213: 6448044445650118893
+    second: turkey_74
+  - first:
+      213: -735636468162159424
+    second: turkey_75
+  - first:
+      213: 4720483973216121012
+    second: turkey_76
+  - first:
+      213: 3186892315376089486
+    second: turkey_77
+  - first:
+      213: 7830954780386672281
+    second: turkey_78
+  - first:
+      213: -5153943640275614866
+    second: turkey_79
+  - first:
+      213: -2599466268896402841
+    second: turkey_80
+  - first:
+      213: -3201566842594482199
+    second: turkey_81
+  - first:
+      213: 3604388900029928309
+    second: turkey_82
+  - first:
+      213: -841651870010463774
+    second: turkey_83
+  - first:
+      213: 920446207323586308
+    second: turkey_84
+  - first:
+      213: -5914243359042436366
+    second: turkey_85
+  - first:
+      213: 118046175530945892
+    second: turkey_86
+  - first:
+      213: 4973469893527976770
+    second: turkey_87
+  - first:
+      213: -5218319630802751644
+    second: turkey_88
+  - first:
+      213: 3488375355814905859
+    second: turkey_89
+  - first:
+      213: 6469906213643265744
+    second: turkey_90
+  - first:
+      213: -5341970547330305229
+    second: turkey_91
+  - first:
+      213: 1643684167955322730
+    second: turkey_92
+  - first:
+      213: -1216239988815857812
+    second: turkey_93
+  - first:
+      213: 929767097032591717
+    second: turkey_94
+  - first:
+      213: 9012354815359690756
+    second: turkey_95
+  - first:
+      213: 954603559937957050
+    second: turkey_96
+  - first:
+      213: -8041589456059992540
+    second: turkey_97
+  - first:
+      213: 6037015980997348316
+    second: turkey_98
+  - first:
+      213: -5642508616458383605
+    second: turkey_99
+  - first:
+      213: 2336342851603706002
+    second: turkey_100
+  - first:
+      213: 7586497310128831753
+    second: turkey_101
+  - first:
+      213: -2988194074144043905
+    second: turkey_102
+  - first:
+      213: 7579727464480230125
+    second: turkey_103
+  - first:
+      213: -8017701473072124109
+    second: turkey_104
+  - first:
+      213: 8220192193821245796
+    second: turkey_105
+  - first:
+      213: 2790028972153720726
+    second: turkey_106
+  - first:
+      213: -6142700886581630267
+    second: turkey_107
+  - first:
+      213: -4123568535266205156
+    second: turkey_108
+  - first:
+      213: 1271117031500242529
+    second: turkey_109
+  - first:
+      213: 4548210265841777227
+    second: turkey_110
+  - first:
+      213: 8925092259029959199
+    second: turkey_111
+  - first:
+      213: 6600771059031316744
+    second: turkey_112
+  - first:
+      213: 3142208379233986453
+    second: turkey_113
+  - first:
+      213: -2672243113070755508
+    second: turkey_114
+  - first:
+      213: 8696921433498833702
+    second: turkey_115
+  - first:
+      213: -4268082538896444559
+    second: turkey_116
+  - first:
+      213: -3889785401389916541
+    second: turkey_117
+  - first:
+      213: -8020628036906834132
+    second: turkey_118
+  - first:
+      213: 7273742276551582231
+    second: turkey_119
+  - first:
+      213: 5809184478250738036
+    second: turkey_120
+  - first:
+      213: -9040886356646369320
+    second: turkey_121
+  - first:
+      213: -8624195374707981783
+    second: turkey_122
+  - first:
+      213: -6762979485082741011
+    second: turkey_123
+  - first:
+      213: 7355585482024377758
+    second: turkey_124
+  - first:
+      213: -1370566077961467705
+    second: turkey_125
+  - first:
+      213: -9080812270178986316
+    second: turkey_126
+  - first:
+      213: 7207068996776104825
+    second: turkey_127
+  - first:
+      213: -3926530880216316073
+    second: turkey_128
+  - first:
+      213: -9158172595560433586
+    second: turkey_129
+  - first:
+      213: -5015063720490101137
+    second: turkey_130
+  - first:
+      213: 2975727463805854265
+    second: turkey_131
+  - first:
+      213: 5749704123633783089
+    second: turkey_132
+  - first:
+      213: -1180924958807854841
+    second: turkey_133
+  - first:
+      213: -2587294186071757400
+    second: turkey_134
+  - first:
+      213: -3970412167973997516
+    second: turkey_135
+  - first:
+      213: -2089594416424272918
+    second: turkey_0
+  - first:
+      213: -506180904357719352
+    second: turkey_1
+  - first:
+      213: 8702455057617266727
+    second: turkey_2
+  - first:
+      213: 8703293665103723222
+    second: turkey_3
+  - first:
+      213: 135519081391367124
+    second: turkey_4
+  - first:
+      213: -3469511262688038408
+    second: turkey_5
+  - first:
+      213: -8865838084851308410
+    second: turkey_6
+  - first:
+      213: -6904844348125852357
+    second: turkey_7
+  - first:
+      213: -5893153294993454281
+    second: turkey_8
+  - first:
+      213: -5197488816217293993
+    second: turkey_9
+  - first:
+      213: -7891258939833575068
+    second: turkey_10
+  - first:
+      213: -8894215946110999547
+    second: turkey_11
+  - first:
+      213: -7676752941766550172
+    second: turkey_12
+  - first:
+      213: 3529150258670411256
+    second: turkey_13
+  - first:
+      213: -5277525671216500864
+    second: turkey_14
+  - first:
+      213: 8154492403478346878
+    second: turkey_15
+  - first:
+      213: -5692674704352872055
+    second: turkey_16
+  - first:
+      213: -8461873353465460466
+    second: turkey_17
+  - first:
+      213: -8658271791426229015
+    second: turkey_18
+  - first:
+      213: -4084467336763503880
+    second: turkey_19
+  - first:
+      213: 7578994454471125181
+    second: turkey_20
+  - first:
+      213: -3831632451765321311
+    second: turkey_21
+  - first:
+      213: 8788326968274775100
+    second: turkey_22
+  - first:
+      213: 2090540006098552402
+    second: turkey_23
+  - first:
+      213: -8020449350090665649
+    second: turkey_24
+  - first:
+      213: -4823654408827779992
+    second: turkey_25
+  - first:
+      213: 9104258334711562238
+    second: turkey_26
+  - first:
+      213: 8601726073902243300
+    second: turkey_27
+  - first:
+      213: -8993351394911826540
+    second: turkey_28
+  - first:
+      213: 7247499313121433969
+    second: turkey_29
+  - first:
+      213: 5334308823217892937
+    second: turkey_30
+  - first:
+      213: 33307145454253096
+    second: turkey_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turkey_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 934
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb346c03f44003e0800000000000000
+      internalID: -2089594416424272918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 933
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21cab362fa9f8f0800000000000000
+      internalID: -506180904357719352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 934
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728241f64c455c870800000000000000
+      internalID: 8702455057617266727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 933
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da3a64f97f48c870800000000000000
+      internalID: 8703293665103723222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 798
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ae92f2e571e100800000000000000
+      internalID: 135519081391367124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1334b83e1d9dfc0800000000000000
+      internalID: -3469511262688038408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ee4c2c3736f480800000000000000
+      internalID: -8865838084851308410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 799
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d489816a01d20a0800000000000000
+      internalID: -6904844348125852357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 677
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b0efc2d40573ea0800000000000000
+      internalID: -5893153294993454281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 677
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7d49857fced7b0800000000000000
+      internalID: -5197488816217293993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 677
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469189ccdcd9c7290800000000000000
+      internalID: -7891258939833575068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 677
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504607878b5619480800000000000000
+      internalID: -8894215946110999547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 543
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd1956fd1b67590800000000000000
+      internalID: -7676752941766550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1707467f0af030800000000000000
+      internalID: 3529150258670411256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa2221d5672c6b0800000000000000
+      internalID: -5277525671216500864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 544
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb2f8f2a39a2170800000000000000
+      internalID: 8154492403478346878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 422
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f139748e8ff0b0800000000000000
+      internalID: -5692674704352872055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 422
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0909589403619a80800000000000000
+      internalID: -8461873353465460466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 422
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec214fdda3a7d780800000000000000
+      internalID: -8658271791426229015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 422
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa868ff89e0157c0800000000000000
+      internalID: -4084467336763503880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db828651d4ffd2960800000000000000
+      internalID: 7578994454471125181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 288
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14ba2069e43dac0800000000000000
+      internalID: -3831632451765321311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 288
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce00aa0d866f970800000000000000
+      internalID: 8788326968274775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564f343f07130d10800000000000000
+      internalID: 2090540006098552402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 165
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4155dc6fc3a1b090800000000000000
+      internalID: -8020449350090665649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c29a3fdfee0db0800000000000000
+      internalID: -4823654408827779992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 165
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3fdf08b2d85e70800000000000000
+      internalID: 9104258334711562238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 165
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed98225a487f5770800000000000000
+      internalID: 8601726073902243300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d440e1e82313380800000000000000
+      internalID: -8993351394911826540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799d74f93a449460800000000000000
+      internalID: 7247499313121433969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6222cc95470a40800000000000000
+      internalID: 5334308823217892937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkey_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824784d1ca4567000800000000000000
+      internalID: 33307145454253096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

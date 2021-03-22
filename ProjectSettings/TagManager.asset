@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - VirtualCamera
+  - Map
+  - Joystick
+  - UI
+  - CassableObject
+  - PlayerSpoiwnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Consumables
+  - Enemies
+  - Ammo
+  - CassableObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1542060439
+    locked: 0
+  - name: Objects
+    uniqueID: 1307310783
+    locked: 0
+  - name: Wals
+    uniqueID: 171600609
+    locked: 0
+  - name: Characters
+    uniqueID: 3957144201
+    locked: 0
+  - name: OverCharacter
+    uniqueID: 1371206707
+    locked: 0
