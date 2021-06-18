@@ -14,7 +14,7 @@ public class Ammo : MonoBehaviour
         {
             var obj = collision.gameObject.GetComponent<CassableObject>();
             StartCoroutine(obj.Damage(damageInflicted, 0));
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
         }
     }
 }

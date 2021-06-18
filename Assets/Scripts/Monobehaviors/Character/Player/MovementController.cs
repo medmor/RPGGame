@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MovementController : MonoBehaviour
 {
@@ -27,7 +25,7 @@ public class MovementController : MonoBehaviour
     {
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-        if(UIManager.Instance.joystick && movement.x == 0 && movement.y == 0)
+        if (UIManager.Instance.joystick && movement.x == 0 && movement.y == 0)
         {
             movement.x = UIManager.Instance.joystick.Horizontal;
             movement.y = UIManager.Instance.joystick.Vertical;
@@ -49,4 +47,5 @@ public class MovementController : MonoBehaviour
             animator.SetFloat("yDir", movement.y);
         }
     }
+
 }
